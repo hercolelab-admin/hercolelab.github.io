@@ -21,7 +21,7 @@
 title: HERCOLE Lab
 email: hercolelab@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to the **H**uman-**E**xplainable, **R**obust, and **CO**llaborative **LE**arning (HERCOLE) Lab's website!
+  Welcome to the Human-Explainable, Robust, and COllaborative LEarning (HERCOLE) Lab's website!
 domain: hercolelab.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hercolelab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
